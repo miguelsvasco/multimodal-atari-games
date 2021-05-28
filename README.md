@@ -26,3 +26,14 @@ torchaudio = "0.5.0"
 tqdm = "4.45.0"
 ```
 
+
+## Citation
+```
+@inproceedings{silva2020playing,
+  title={Playing Games in the Dark: An Approach for Cross-Modality Transfer in Reinforcement Learning},
+  author={Silva, Rui and Vasco, Miguel and Melo, Francisco S and Paiva, Ana and Veloso, Manuela},
+  booktitle={Proceedings of the 19th International Conference on Autonomous Agents and MultiAgent Systems},
+  pages={1260--1268},
+  year={2020}
+}
+```
