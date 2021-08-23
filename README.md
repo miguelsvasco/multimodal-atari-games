@@ -1,5 +1,10 @@
 # Multimodal Atari Games
-Implementation of the Multimodal Atari Games from "Playing Games in the Dark: An Approach for Cross-Modality Transfer in Reinforcement Learning"
+Implementation of the Multimodal Atari Games from ["Playing Games in the Dark: An Approach for Cross-Modality Transfer in Reinforcement Learning"](https://arxiv.org/abs/1911.12851)
+
+  
+Hyperhot           |  Pendulum
+:-------------------------:|:-------------------------:
+![](images/hyperhot_game.gif)  |  ![](images/pendulum_game.gif)
 
 
 ### Dependencies for Gym Environments
